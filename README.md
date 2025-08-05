@@ -1,1 +1,1 @@
-# Cryto AI Predictor
+# Crypto AI Predictor
